@@ -19,11 +19,11 @@ notes['notes'] = f"""{emoji.SPIRAL_NOTEPAD} **Notes** (/notes):
 `#musicbot` __tgmusicbot__"""
 
 url['readme_heroku'] = (
-    "https://github.com/callsmusic/tgvc-userbot#deploy-to-heroku"
+    "https://github.com/anehajahlu/tgvc-userbot#deploy-to-heroku"
 )
 url['heroku'] = (
     "https://heroku.com/deploy?template="
-    "https://github.com/callsmusic/tgvc-userbot/tree/dev"
+    "https://github.com/anehajahlu/tgvc-userbot/tree/dev"
 )
 url['replit'] = "https://repl.it/@Leorio/stringsessiongen#main.py"
 notes['heroku'] = f"""{emoji.LABEL} **Heroku** (/notes #heroku):
@@ -51,20 +51,20 @@ notes['raw'] = f"""{emoji.LABEL} **RAW PCM file size** (/notes #raw):
 |       2H |    1.28G |
 |       4H |    2.57G |```"""
 
-url['repo'] = "https://github.com/callsmusic/tgvc-userbot"
+url['repo'] = "https://github.com/anehajahlu/tgvc-userbot"
 notes['repo'] = f"""{emoji.LABEL} **Repository** (/notes #repo):
 
 {emoji.ROBOT} [Telegram Voice Chat Userbot (tgvc-userbot)]({url['repo']})"""
 
 url['tmbh'] = (
     "https://heroku.com/deploy?template="
-    "https://github.com/callsmusic/tgmusicbot"
+    "https://github.com/anehajahlu/tgmusicbot"
 )
 notes['musicbot'] = (
     f"""{emoji.ROBOT} **Telegram Music Bot** (/notes #musicbot):
 __bot for downloading music from YouTube/SoundCloud/Mixcloud__
 
-**Repository**: [GitHub](https://github.com/callsmusic/tgmusicbot)
+**Repository**: [GitHub](https://github.com/anehajahlu/tgmusicbot)
 **License**: AGPL-3.0-or-later
 
 {emoji.BACKHAND_INDEX_POINTING_RIGHT} [Deploy to Heroku]({url['tmbh']})"""
