@@ -2,7 +2,7 @@
 
 A Telegram UserBot to Play Audio in Voice Chats.
 
-This is also the source code of the userbot which is being used for playing DJ/Live Sets music in [Cari Teman Online](https://t.me/humangabutguys) group.
+This is also the source code of the userbot which is being used for playing Music in [Cari Teman Online](https://t.me/humangabutguys) group.
 
 Made with [tgcalls](https://github.com/MarshalX/tgcalls) and [Pyrogram Smart Plugin](https://docs.pyrogram.org/topics/smart-plugins)
 
