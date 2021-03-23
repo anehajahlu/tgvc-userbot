@@ -2,11 +2,11 @@
 
 A Telegram UserBot to Play Audio in Voice Chats.
 
-This is also the source code of the userbot which is being used for playing DJ/Live Sets music in [VC DJ/Live Sets](https://t.me/VCSets) group.
+This is also the source code of the userbot which is being used for playing DJ/Live Sets music in [Cari Teman Online](https://t.me/humangabutguys) group.
 
 Made with [tgcalls](https://github.com/MarshalX/tgcalls) and [Pyrogram Smart Plugin](https://docs.pyrogram.org/topics/smart-plugins)
 
-It's recommended to use [tgmusicbot](https://github.com/callsmusic/tgmusicbot) along with this userbot.
+It's recommended to use [All Start Dev](https://github.com/anehajahlu/tgmusicbot) along with this userbot.
 
 ## Deploy to Heroku
 
