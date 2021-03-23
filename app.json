@@ -28,6 +28,15 @@
     "SESSION_NAME": {
             "description": "Session string, read the README to learn how to export it with Pyrogram",
             "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "A bot token from @BotFather",
+      "required": true
+
+    },
+    "SUDO_USERS": {
+      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "required": true
     }
   }
 }
